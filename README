@@ -2,7 +2,7 @@ In 1912, the British passenger ship Titanic struck an iceberg, which led to the 
 
 You want to construct a model with Logistic Regression that uses available data about the passengers to predict their survival.
 
-Use this dataset: titanic_dataset.csv (more information about this dataset is available on Kaggle (Links to an external site.)Links to an external site.--however, ignore the other datasets there)
+Use this dataset: titanic_dataset.csv (more information about this dataset is available on Kaggle (Links to an external site.)https://www.kaggle.com/c/titanic/data
 
 First, drop columns from the dataset that are obviously unnecessary for your model.
 Then, assign the dataset's median Age to rows where the age data is missing.
